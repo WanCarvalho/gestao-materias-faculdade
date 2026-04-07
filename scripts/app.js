@@ -1,6 +1,6 @@
 const data = [
   {
-    semestre: "1º Semestre",
+    semestre: "1º Semestre (2022.1)",
     materias: [
       { id: "IMD0017", nome: "Práticas de Leitura e Escrita em Português", carga: "30h", tipo: "Obrigatória" },
       { id: "IMD1004", nome: "Pensamento Computacional", carga: "60h", tipo: "Obrigatória" },
@@ -10,7 +10,7 @@ const data = [
     ]
   },
   {
-    semestre: "2º Semestre",
+    semestre: "2º Semestre (2022.2)",
     materias: [
       { id: "IMD1112", nome: "Ética e Dados", carga: "60h", tipo: "Optativa" },
       { id: "IMD0027", nome: "Práticas de Leitura e Escrita em Português II", carga: "30h", tipo: "Obrigatória" },
@@ -19,7 +19,7 @@ const data = [
     ]
   },
   {
-    semestre: "3º Semestre",
+    semestre: "3º Semestre (2023.1)",
     materias: [
       { id: "IMD1024", nome: "Arquitetura de Computadores", carga: "60h", tipo: "Obrigatória" },
       { id: "IMD0030", nome: "Linguagem de Programação I", carga: "60h", tipo: "Obrigatória" },
@@ -27,7 +27,7 @@ const data = [
     ]
   },
   {
-    semestre: "4º Semestre",
+    semestre: "4º Semestre (2023.2)",
     materias: [
       { id: "IMD1001", nome: "Matemática Elementar", carga: "60h", tipo: "Obrigatória" },
       { id: "IMD0036", nome: "Sistemas Operacionais", carga: "60h", tipo: "Obrigatória" },
@@ -36,7 +36,7 @@ const data = [
     ]
   },
   {
-    semestre: "5º Semestre",
+    semestre: "5º Semestre (2024.1)",
     materias: [
       { id: "IMD0510", nome: "Acessibilidade Digital", carga: "60h", tipo: "Optativa" },
       { id: "IMD0940", nome: "Banco de Dados", carga: "60h", tipo: "Obrigatória" },
@@ -44,7 +44,7 @@ const data = [
     ]
   },
   {
-    semestre: "6º Semestre",
+    semestre: "6º Semestre (2024.2)",
     materias: [
       { id: "IMD1029", nome: "Estruturas de Dados Básicas I", carga: "60h", tipo: "Obrigatória" },
       { id: "DIM0524", nome: "DESENVOLVIMENTO DE SISTEMAS PARA DISPOSITIVOS MÓVEIS", carga: "60h", tipo: "Optativa" },
@@ -53,7 +53,7 @@ const data = [
     ]
   },
   {
-    semestre: "7º Semestre",
+    semestre: "7º Semestre (2025.1)",
     materias: [
       { id: "IMD0036B", nome: "Estruturas de Dados Básicas II", carga: "60h", tipo: "Obrigatória" },
       { id: "IMD0024", nome: "Cálculo Diferencial e Integral I", carga: "90h", tipo: "Obrigatória" },
