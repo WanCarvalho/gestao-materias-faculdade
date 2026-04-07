@@ -60,7 +60,7 @@ const data = [
     ]
   },
   {
-    semestre: "Optativas",
+    semestre: "Pendentes",
     materias: [
       { id: "IMD0028", nome: "Fundamentos Matemáticos da Computação I", carga: "90h", tipo: "Obrigatória" },
       { id: "IMD0038", nome: "Fundamentos Matemáticos da Computação II", carga: "90h", tipo: "Obrigatória" },
