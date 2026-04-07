@@ -2,7 +2,7 @@
 
 Aplicação web simples para visualização e acompanhamento de progresso em uma grade curricular. Permite marcar disciplinas como concluídas, visualizar progresso geral e organizar matérias por semestre.
 
-Acessível em: https://github.com/WanCarvalho/gestao-materias-faculdade.git
+Acessível em: https://wancarvalho.github.io/gestao-materias-faculdade/
 
 ---
 
